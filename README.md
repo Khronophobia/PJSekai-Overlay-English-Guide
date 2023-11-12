@@ -13,3 +13,11 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
 5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest)
 6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest) (optional but recommended)
+7. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart
+
+## Instructions
+### Section One: Installation
+1. Download AviUtl from the link above and extract it somewhere
+2. Download patch.aul and English Patch (if needed) and extract it in the same location
+3. Download x265guiEx and extract it in the same location
+4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
