@@ -10,3 +10,6 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 1. [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay)
 2. [AviUtl v1.10 + Extended Editor (exedit) v0.92](http://spring-fragrance.mints.ne.jp/aviutl/)
 3. [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42)
+4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
+5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest)
+6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest) (optional but recommended)
