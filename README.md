@@ -8,5 +8,5 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 
 ## Requirements
 1. [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay)
-2. AviUtl
-3. 
+2. [AviUtl v1.10 + Extended Editor (exedit) v0.92](http://spring-fragrance.mints.ne.jp/aviutl/)
+3. [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42)
