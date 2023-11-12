@@ -21,3 +21,8 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 2. Download patch.aul and English Patch (if needed) and extract it in the same location
 3. Download x265guiEx and extract it in the same location
 4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
+5. Your AviUtl folder should look like this:\
+  **Base folder**\
+   ![AviUtl directory](images/aviutldirectory.png)\
+   **Plugins folder**\
+   ![Plugins folder](images/pluginsdirectory.png)
