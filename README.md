@@ -1,10 +1,10 @@
-# PJSekai-Overlay English Guide (UNFINISHED!!!)
+# PJSekai-Overlay English Guide
 
 This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) for English people. This also includes how to navigate AviUtl, but only the *bare minimum* required for this purpose.
 
 **DISCLAIMER:**\
 I do **NOT** speak Japanese. I figured out everything by trial and error. Some parts of this guide *may be partially or completely wrong*.\
-Nanashi (author of pjsekai-overlay) have stated time and time again that they **WILL NOT** help for English users. This and AviUtl are tools intended for Japanese-speaking people. If problem arises, **DO NOT** ask Nanashi for help.
+Nanashi. (author of pjsekai-overlay) have stated time and time again that they **WILL NOT** help for English users. This and AviUtl are tools intended for Japanese-speaking people. If problem arises, **DO NOT** ask Nanashi. for help.
 
 ## Requirements
 1. [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay)
@@ -20,7 +20,7 @@ Nanashi (author of pjsekai-overlay) have stated time and time again that they **
 ### Section One: Installation
 1. Download AviUtl from the link above and extract it somewhere
 2. Download patch.aul and English Patch and extract it in the same location
-3. Download x265guiEx and extract it in the same location
+3. Download x265guiEx (if needed) and extract it in the same location
 4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
 5. Your AviUtl folder should look like this:\
   **Base folder**\
@@ -47,7 +47,24 @@ Nanashi (author of pjsekai-overlay) have stated time and time again that they **
 ![](images/importexo.png)
 10. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
 ### Section Three: Editing
-If you have experience with video editors of any kind, this section will be significantly easier. Something like this should pop up after you imported `main.exo`\
-![](images/timelineguide.png)\
-I've added red text to label what is what. When you right-click on one of them (from now on, I'll refer to them as clips) a menu will appear. This is what most of them does.\
-![](images/rightclickguide.png)
+If you have experience with video editors of any kind, this section will be significantly easier. Something like this should pop up after you imported `main.exo`. I added red text to label what is what.\
+![](images/timelineguide.png)
+
+When you right-click on one of them (from now on, I'll refer to them as clips) a menu will appear. This is what most of them does:\
+![](images/rightclickguide.png)\
+(Anything I haven't labeled means I haven't tested or have no clue what it does)
+
+Double clicking on a clip will open a window where you can modify them.
+
+On the original AviUtl window, you should see the PJSekai UI appear like this:\
+![](images/window.png)\
+Add your recorded video by dragging it into the Extended Editor window. Put it in Layer 5 or so. Make sure to line up the video with the combo.
+
+Depending on the chart, the UI might stop early (or keep going even if the chart already ended). In this case resize the clips highlighted in red and drag the clips highlighted in green to match the recorded video. (I'm not sure about the one highlighted in purple. In my testing I find that it does nothing.)\
+![](images/clipdrag.png)
+
+You may have noticed that the ALL PERFECT! at the end covers the screen. To fix this, double click on it and in the dropdown choose the 7th option. (I think it sets the blending mode to Screen or something similar?)\
+![](images/changeapthing.png)
+
+Once everything is satisfactory, click on File in the AviUtl window and select either `Export with AVI`, or hover over `Export with Plugin` and select `x625guiEx` if you've installed it. Everything from then on should (hopefully) be straightforward.\
+![](images/export.png)
