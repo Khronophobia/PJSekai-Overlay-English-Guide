@@ -33,3 +33,8 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 2. Launch pjsekai-overlay
 3. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
 ![](images/inputid.png)
+4. On this screen, type your team talent (used for calculating score). In general, 220000+ is an S rank\
+![](images/inputtalent.png)
+5. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
+![](images/apindicator.png)
+6. Once it closes, go to your AviUtl directory. There should be a new folder named `scripts` there. For some reason, this is in the wrong spot. Move it to the plugins folder
