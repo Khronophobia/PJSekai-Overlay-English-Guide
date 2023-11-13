@@ -28,8 +28,8 @@ Nanashi (author of pjsekai-overlay) have stated time and time again that they **
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
 6. Download pjsekai-overlay and extract it anywhere
-### Section Two: Usage
-**NOTE:** This section contains some texts that look like weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
+### Section Two: Setting Up a Project
+**NOTE:** From this point on, some images may have text containing weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
 1. Launch AviUtl
 2. Launch pjsekai-overlay
 3. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
