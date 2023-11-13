@@ -37,4 +37,4 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 ![](images/inputtalent.png)
 5. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
 ![](images/apindicator.png)
-6. Once it closes, go to your AviUtl directory. There should be a new folder named `scripts` there. For some reason, this is in the wrong spot. Move it to the plugins folder
+6. Once it closes, go to your AviUtl directory. There should be a new folder named `scripts` there. For some reason, it's in the wrong spot. Move the folder inside `plugins`
