@@ -45,4 +45,4 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 ![](images/createnewproject.png)
 9. Right click on the timeline once again and select the option highlighted below\
 ![](images/importexo.png)
-10. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, dist, the chart id, and select `main.exo`
+10. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
