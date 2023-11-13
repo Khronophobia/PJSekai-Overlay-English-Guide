@@ -11,23 +11,25 @@ Nanashi. (author of pjsekai-overlay) have stated time and time again that they *
 2. [AviUtl v1.10 + Extended Editor (exedit) v0.92](http://spring-fragrance.mints.ne.jp/aviutl/)
 3. [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42)
 4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
-5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest) (optional but recommended)
+5. [easymp4](https://aoytsk.blog.jp/aviutl/easymp4.zip)
 6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest)
-7. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
-8. Basic knowledge of video editors (not necessarily AviUtl)
+7. [unmult.anm](https://github.com/sevenc-nanashi/unmult.anm/releases/latest)
+8. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
+9. Basic knowledge of video editors (not necessarily AviUtl)
 
 ## Instructions
 ### Section One: Installation
 1. Download AviUtl from the link above and extract it somewhere
 2. Download patch.aul and English Patch and extract it in the same location
-3. Download x265guiEx (if needed) and extract it in the same location
+3. Download easymp4 and extract it to `plugins` (Create the folder if it's not available)
 4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
-5. Your AviUtl folder should look like this:\
+5. Inside `plugins`, create a folder named `scripts` (if not already available) and move `unmult.anm` and `unmult_core.dll` inside
+6. Your AviUtl folder should look like this:\
   **Base folder**\
    ![AviUtl directory](images/aviutldirectory.png)\
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
-6. Download pjsekai-overlay and extract it anywhere
+7. Download pjsekai-overlay and extract it anywhere
 ### Section Two: Setting Up a Project
 **NOTE:** From this point on, some images may have text containing weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
 1. Launch AviUtl
@@ -50,11 +52,14 @@ Nanashi. (author of pjsekai-overlay) have stated time and time again that they *
 If you have experience with video editors of any kind, this section will be significantly easier. Something like this should pop up after you imported `main.exo`. I added red text to label what is what.\
 ![](images/timelineguide.png)
 
-When you right-click on one of them (from now on, I'll refer to them as clips) a menu will appear. This is what most of them does:\
+When you right-click on one of them (from now on, I'll refer to them as clips) a menu will appear. This is what most of them do:\
 ![](images/rightclickguide.png)\
 (Anything I haven't labeled means I haven't tested or have no clue what it does)
 
 Double clicking on a clip will open a window where you can modify them.
+
+Right clicking on the timeline will open a menu. This is what some of them do:\
+![](images/timelinerightclick.png)
 
 On the original AviUtl window, you should see the PJSekai UI appear like this:\
 ![](images/window.png)\
@@ -63,8 +68,5 @@ Add your recorded video by dragging it into the Extended Editor window. Put it i
 Depending on the chart, the UI might stop early (or keep going even if the chart already ended). In this case resize the clips highlighted in red and drag the clips highlighted in green to match the recorded video. (I'm not sure about the one highlighted in purple. In my testing I find that it does nothing.)\
 ![](images/clipdrag.png)
 
-You may have noticed that the ALL PERFECT! at the end covers the screen. To fix this, double click on it and in the dropdown choose the 7th option. (I think it sets the blending mode to Screen or something similar?)\
-![](images/changeapthing.png)
-
-Once everything is satisfactory, click on File in the AviUtl window and select either `Export with AVI`, or hover over `Export with Plugin` and select `x625guiEx` if you've installed it. Everything from then on should (hopefully) be straightforward.\
+Once everything is satisfactory, click on File in the AviUtl window and select either `Export with AVI`, or hover over `Export with Plugin` and select the highlighted option (with MP4 in the name). Everything from then on should (hopefully) be straightforward.\
 ![](images/export.png)
