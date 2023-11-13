@@ -11,14 +11,15 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 2. [AviUtl v1.10 + Extended Editor (exedit) v0.92](http://spring-fragrance.mints.ne.jp/aviutl/)
 3. [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42)
 4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
-5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest)
-6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest) (optional but recommended)
+5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest) (optional but recommended)
+6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest)
 7. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart
+8. Basic knowledge of video editors (not necessarily AviUtl)
 
 ## Instructions
 ### Section One: Installation
 1. Download AviUtl from the link above and extract it somewhere
-2. Download patch.aul and English Patch (if needed) and extract it in the same location
+2. Download patch.aul and English Patch and extract it in the same location
 3. Download x265guiEx and extract it in the same location
 4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
 5. Your AviUtl folder should look like this:\
@@ -26,3 +27,9 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
    ![AviUtl directory](images/aviutldirectory.png)\
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
+6. Download pjsekai-overlay and extract it anywhere
+### Section Two: Usage
+1. Launch AviUtl
+2. Launch pjsekai-overlay
+3. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
+![](images/inputid.png)
