@@ -70,3 +70,9 @@ Depending on the chart, the UI might stop early (or keep going even if the chart
 
 Once everything is satisfactory, click on File in the AviUtl window and select either `Export with AVI`, or hover over `Export with Plugin` and select the highlighted option (with MP4 in the name). Everything from then on should (hopefully) be straightforward.\
 ![](images/export.png)
+
+## Problems and Answers
+### The fonts looks off/incorrect
+Project Sekai uses FOT-ロダンNTLG Pro EB and FOT-ロダンNTLG Pro DB as its fonts. If you don't have it installed on your system, AviUtl will use another font. Find the correct fonts on Google.
+### The video ends too early/goes on for too long
+Right click on the timeline and refer to [Section Three.](#section-three-editing)
