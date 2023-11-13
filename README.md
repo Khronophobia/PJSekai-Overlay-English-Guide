@@ -23,7 +23,7 @@ Nanashi. (author of pjsekai-overlay) have stated time and time again that they *
 2. Download patch.aul and English Patch and extract it in the same location
 3. Download easymp4 and extract it to `plugins` (Create the folder if it's not available)
 4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
-5. Inside `plugins`, create a folder named `scripts` (if not already available) and move `unmult.anm` and `unmult_core.dll` inside
+5. Inside `plugins`, create a folder named `script` (if not already available) and move `unmult.anm` and `unmult_core.dll` inside
 6. Your AviUtl folder should look like this:\
   **Base folder**\
    ![AviUtl directory](images/aviutldirectory.png)\
@@ -40,7 +40,7 @@ Nanashi. (author of pjsekai-overlay) have stated time and time again that they *
 ![](images/inputtalent.png)
 5. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
 ![](images/apindicator.png)
-6. Once it closes, go to your AviUtl directory. There should be a new folder named `scripts` there. For some reason, it's in the wrong spot. Move the folder inside `plugins`
+6. Once it closes, go to your AviUtl directory. There should be a new folder named `script` there. For some reason, it's in the wrong spot. Move the folder inside `plugins`
 7. On AviUtl, go to the `Filters+` tab and click on the option below `Advanced color correction...` (highlighted in red). This will open the Extended Editor\
 ![](images/openexedit.png)
 8. On the new window, right click on the timeline and click the first option (highlighted in red). This will create a new project. Set the resolution to 1280x720 and FPS to 60\
