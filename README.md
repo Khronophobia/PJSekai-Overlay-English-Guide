@@ -1,4 +1,4 @@
-# PJSekai-Overlay English Guide (UNFINISHED!!!)
+8# PJSekai-Overlay English Guide (UNFINISHED!!!)
 
 This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) for English people. This also includes how to navigate AviUtl, but only the bare minimum required for this purpose.
 
@@ -13,7 +13,7 @@ As Nanashi said, this is a tool intended for Japanese people. If you're having t
 4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
 5. [x265guiEx](https://github.com/rigaya/x265guiEx/releases/latest) (optional but recommended)
 6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest)
-7. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart
+7. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
 8. Basic knowledge of video editors (not necessarily AviUtl)
 
 ## Instructions
