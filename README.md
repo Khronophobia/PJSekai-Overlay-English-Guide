@@ -46,3 +46,8 @@ Nanashi (author of pjsekai-overlay) have stated time and time again that they **
 9. Right click on the timeline once again and select the option highlighted below\
 ![](images/importexo.png)
 10. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
+### Section Three: Editing
+If you have experience with video editors of any kind, this section will be significantly easier. Something like this should pop up after you imported `main.exo`\
+![](images/timelineguide.png)\
+I've added red text to label what is what. When you right-click on one of them (from now on, I'll refer to them as clips) a menu will appear. This is what most of them does.\
+![](images/rightclickguide.png)
