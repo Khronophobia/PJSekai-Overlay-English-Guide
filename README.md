@@ -1,4 +1,4 @@
-# PJSekai-Overlay English Guide
+# PJSekai-Overlay English Guide (UNFINISHED!!!)
 
 This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) for English people. This also includes how to navigate AviUtl, but only the bare minimum required for this purpose.
 
