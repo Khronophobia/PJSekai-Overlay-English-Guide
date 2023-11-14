@@ -47,7 +47,7 @@ I won't tell you how to obtain all of the above. You're on your own for this one
 ![](images/importexo.png)
 10. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
 ### Part Three: Editing
-**NOTE:** I'm considering rewriting this part soon™ because I *think* I figured out what you're actually supposed to do.
+**NOTE:** I'm considering rewriting this part soon™ because I *think* I figured out what you're actually supposed to do. The steps below may be suboptimal.
 
 If you have experience with video editors of any kind, this section will be significantly easier. Something like this should pop up after you imported `main.exo`. I added red text to label what is what.\
 ![](images/timelineguide.png)
