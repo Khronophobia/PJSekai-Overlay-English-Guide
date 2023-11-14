@@ -6,30 +6,25 @@ This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanash
 I do **NOT** speak Japanese. I figured out everything by trial and error. Some parts of this guide *may be partially or completely wrong*.\
 Nanashi. (author of pjsekai-overlay) have stated time and time again that they **WILL NOT** help for English users. This and AviUtl are tools intended for Japanese-speaking people. If problem arises, **DO NOT** ask Nanashi. for help.
 
-## Requirements
-1. [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay)
-2. [AviUtl v1.10 + Extended Editor (exedit) v0.92](http://spring-fragrance.mints.ne.jp/aviutl/)
-3. [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42)
-4. [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip)
-5. [easymp4](https://aoytsk.blog.jp/aviutl/easymp4.zip)
-6. [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest)
-7. [unmult.anm](https://github.com/sevenc-nanashi/unmult.anm/releases/latest)
-8. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
-9. Basic knowledge of video editors (not necessarily AviUtl)
+## Prerequisites
+Make sure to have the following before following this guide.
+1. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
+2. Basic knowledge of video editors (not necessarily AviUtl)
 
 ## Instructions
 ### Section One: Installation
-1. Download AviUtl from the link above and extract it somewhere
-2. Download patch.aul and English Patch and extract it in the same location
-3. Download easymp4 and extract it to `plugins` (Create the folder if it's not available)
-4. Download Extended Editor and L-SMASH-Works and extract it to `plugins`
-5. Inside `plugins`, create a folder named `script` (if not already available) and move `unmult.anm` and `unmult_core.dll` inside
-6. Your AviUtl folder should look like this:\
+1. Download [AviUtl v1.10](https://spring-fragrance.mints.ne.jp/aviutl/aviutl110.zip) and extract it somewhere
+2. Download [patch.aul](https://github.com/ePi5131/patch.aul/releases/tag/r42) and [English Patch](https://github.com/sykhro/aviutl-english-patch/releases/latest) and extract it in the same location
+3. Download [easymp4](https://aoytsk.blog.jp/aviutl/easymp4.zip) and extract it to `plugins` (Create the folder if it's not available)
+4. Download [Extended Editor](https://spring-fragrance.mints.ne.jp/aviutl/exedit92.zip) and [L-SMASH-Works](https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds/releases/download/build-2023-10-21-01-00-53/L-SMASH-Works_r1103_Mr-Ojii_Mr-Ojii_AviUtl.zip) and extract it to `plugins`
+5. Download `unmult.anm` and `unmult_core.dll` from [here](https://github.com/sevenc-nanashi/unmult.anm/releases/latest).
+6. Inside `plugins`, create a folder named `script` (if not already available) and move `unmult.anm` and `unmult_core.dll` inside
+7. Your AviUtl folder should look like this:\
   **Base folder**\
    ![AviUtl directory](images/aviutldirectory.png)\
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
-7. Download pjsekai-overlay and extract it anywhere
+8. Download [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) and extract it anywhere
 ### Section Two: Setting Up a Project
 **NOTE:** From this point on, some images may have text containing weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
 1. Launch AviUtl
