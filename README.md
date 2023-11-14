@@ -4,12 +4,14 @@ This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanash
 
 **DISCLAIMER:**\
 I do **NOT** speak Japanese. I figured out everything by trial and error. Some parts of this guide *may be partially or completely wrong*.\
-Nanashi. (author of pjsekai-overlay) have stated time and time again that they **WILL NOT** help for English users. This and AviUtl are tools intended for Japanese-speaking people. If problem arises, **DO NOT** ask Nanashi. for help.
+Nanashi. (author of pjsekai-overlay) have stated time and time again that they **WILL NOT** help for English users. This and AviUtl are tools intended for Japanese-speaking people. If problem arises, **DO NOT** ask Nanashi. for help. Open an issue here or contact me on Discord (khronophobia) instead. I'll try to help when I can.
 
 ## Prerequisites
 Make sure to have the following before following this guide.
 1. A 720p mp4 recording of a Chart Cyanvas/Potato Leaves chart with Hide UI enabled
 2. Basic knowledge of video editors (not necessarily AviUtl)
+
+I won't tell you how to obtain the above. You're on your own for this one.
 
 ## Instructions
 ### Section One: Installation
