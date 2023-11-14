@@ -26,7 +26,7 @@ I won't tell you how to obtain the above. You're on your own for this one.
    ![AviUtl directory](images/aviutldirectory.png)\
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
-8. Download [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) and extract it anywhere
+8. Download [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay/releases/latest) and extract it anywhere
 ### Section Two: Setting Up a Project
 **NOTE:** From this point on, some images may have text containing weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
 1. Launch AviUtl
