@@ -38,7 +38,8 @@ I won't tell you how to obtain all of the above. You're on your own for this one
 ![](images/inputtalent.png)
 5. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
 ![](images/apindicator.png)
-6. Once it closes, go to your AviUtl directory. There should be a new folder named `script` there. For some reason, it's in the wrong spot. Move the folder inside `plugins`
+6. (Only applicable to pjsekai-overlay v0.3.2 and below. Skip if on v0.3.3 and above)\
+   In the AviUtl directory, there should be a folder named `script` containing `@pjsekai-overlay.obj`. It's in the wrong spot. Move it inside `plugins`
 7. On AviUtl, go to the `Filters+` tab and click on the option below `Advanced color correction...` (highlighted in red). This will open the Extended Editor\
 ![](images/openexedit.png)
 8. On the new window, right click on the timeline and click the first option (highlighted in red). This will create a new project. Set the resolution to 1280x720 and FPS to 60\
