@@ -38,7 +38,7 @@ I won't tell you how to obtain all of the above. You're on your own for this one
 1. Make sure that AviUtl is still open, then launch pjsekai-overlay
 2. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
 ![](images/inputid.png)
-3. On this screen, type your team talent (used for calculating score). In general, 220000+ is an S rank\
+3. On this screen, type your team talent (used for calculating score). In general, 250000+ is an S rank\
 ![](images/inputtalent.png)
 4. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
 ![](images/apindicator.png)
