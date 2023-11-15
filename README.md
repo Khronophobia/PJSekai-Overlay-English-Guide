@@ -28,29 +28,29 @@ I won't tell you how to obtain all of the above. You're on your own for this one
    **Plugins folder**\
    ![Plugins folder](images/pluginsdirectory.png)
 8. Download [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay/releases/latest) and extract it anywhere
+9. Launch AviUtl and take note of the language. If it's in English, skip the next step
+10. Click on the first tab at the top. Hover over the 2nd option from the bottom and select the option with Language in it. Change it to English and restart AviUtl\
+![](images/changelanguage.png)\
+![](images/changelanguage2.png)
 
 ### Part 2: Setting Up a Project
 **NOTE:** From this point on, some images may have text containing weird symbols. I'm not sure why, but I suspect it's because my system language isn't set to Japanese. This may or may not be the case for you.
-1. Launch AviUtl
-2. Launch pjsekai-overlay
-3. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
+1. Make sure that AviUtl is still open, then launch pjsekai-overlay
+2. On this screen, type the id of the chart you recorded like shown. Add `chcy-` if it's a Chart Cyanvas chart, or `ptlv-` if it's a Potato Leaves chart\
 ![](images/inputid.png)
-4. On this screen, type your team talent (used for calculating score). In general, 220000+ is an S rank\
+3. On this screen, type your team talent (used for calculating score). In general, 220000+ is an S rank\
 ![](images/inputtalent.png)
-5. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
+4. This screen tells you whether to enable the AP indicator. Type Y for yes and N for no\
 ![](images/apindicator.png)
-6. (Only applicable to pjsekai-overlay v0.3.2 and below. Skip if on v0.3.3 and above)\
+5. (Skip this step if you're on pjsekai-overlay v0.3.3 and above)\
 In the AviUtl directory, there should be a folder named `script` containing `@pjsekai-overlay.obj`. It's in the wrong spot. Move it inside `plugins`
-7. Go back to AviUtl and click on the first tab at the top. Hover over the 2nd option from the bottom and select the option with Language in it. Change it to English and restart AviUtl\
-![](images/changelanguage.png)\
-![](images/changelanguage2.png)
-8. Go to the `Filters+` tab and click on the option below `Advanced color correction...` (highlighted in red). This will open the Extended Editor\
+6. Go back to AviUtl and to the `Filters+` tab and click on the option below `Advanced color correction...` (highlighted in red). This will open the Extended Editor\
 ![](images/openexedit.png)
-9. On the new window, right click on the timeline and click the first option (highlighted in red). This will create a new project. Set the resolution to 1280x720 and FPS to 60\
+7. On the new window, right click on the timeline and click the first option (highlighted in red). This will create a new project. Set the resolution to 1280x720 and FPS to 60\
 ![](images/createnewproject.png)
-10. Right click on the timeline once again and select the option highlighted below\
+8. Right click on the timeline once again and select the option highlighted below\
 ![](images/importexo.png)
-11. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
+9. A file explorer window should pop up. Navigate to your pjsekai-overlay directory, and then dist/[chart id] and select `main.exo`
 
 ### Part 3: Editing
 This is where the fun part starts. Refer to [this](AviUtl-Reference.md) if you ever get confused. If you have experience with video editors of any kind, this section should be significantly easier.
