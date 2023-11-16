@@ -12,7 +12,7 @@ Make sure to have the following before following this guide.
 2. Basic knowledge of video editors (not necessarily AviUtl)
 3. Determination to make this work
 
-I won't tell you how to obtain all of the above. You're on your own for this one.
+I won't help you on obtaining all of the above. You're on your own for this one.
 
 ## Instructions
 ### Part 1: Installation
