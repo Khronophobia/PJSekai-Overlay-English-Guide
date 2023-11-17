@@ -71,5 +71,5 @@ Make any modifications as needed. Once everything is satisfactory, move on to Pa
 ![](images/export.png)
 
 ## Problems and Answers
-### The fonts looks off/incorrect
+### The fonts look off/incorrect
 Project Sekai uses `FOT-ロダンNTLG Pro EB` and `FOT-ロダンNTLG Pro DB` as its fonts. If you don't have it installed on your system, AviUtl will use another font. Find the correct fonts on Google.
