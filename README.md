@@ -1,6 +1,7 @@
-# PJSekai-Overlay English Guide
+# IMPORTANT!!!
+I moved this guide to [the wiki for my pjsekai-overlay English translation](https://github.com/Khronophobia/pjsekai-overlay-english/wiki). Please go there instead, as this repo won't be updated anymore.
 
-This is a guide on how to use [pjsekai-overlay](https://github.com/sevenc-nanashi/pjsekai-overlay) in English. This also includes how to navigate AviUtl, but only the *bare minimum* required for this purpose.
+# PJSekai-Overlay English Guide (Deprecated)
 
 **DISCLAIMER:**\
 I do **NOT** speak Japanese. I figured out everything by trial and error. Some parts of this guide *may be partially or completely wrong*.\
